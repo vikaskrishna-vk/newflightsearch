@@ -8,3 +8,5 @@ app.listen(port,()=>{
     // cityrepo.createcity({name:"bhilai"});
     cityrepo.deletecity(10);
 })
+
+console.log("Vikas");
